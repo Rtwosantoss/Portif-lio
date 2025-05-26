@@ -11,10 +11,10 @@
                 <router-link to="/about" class="hover:underline hover:text-pink-500 hover:bg-white py-1 px-3 rounded-tr-lg rounded-bl-lg">Sobre</router-link>
             </li>
             <li>
-                <router-link to="/contact" class="hover:underline hover:text-pink-500 hover:bg-white py-1 px-3 rounded-tr-lg rounded-bl-lg">Contato</router-link>
+                <router-link to="/portifolio" class="hover:underline hover:text-pink-500 hover:bg-white py-1 px-3 rounded-tr-lg rounded-bl-lg">Potifolio</router-link>
             </li>
             <li>
-                <router-link to="/portifolio" class="hover:underline hover:text-pink-500 hover:bg-white py-1 px-3 rounded-tr-lg rounded-bl-lg">Potifolio</router-link>
+                <router-link to="/contact" class="hover:underline hover:text-pink-500 hover:bg-white py-1 px-3 rounded-tr-lg rounded-bl-lg">Contato</router-link>
             </li>
         </ul>
     </nav>
