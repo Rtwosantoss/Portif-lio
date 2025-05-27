@@ -14,7 +14,7 @@ import RotasComponents from '../components/RotasComponents.vue';
     </div>
 
     <div class="flex items-center justify-center px-6 space-x-10 text-left max-w-6xl ml-80">
-        <p>Tela de login de SEGA feita a partir de princípios básicos como HTML e CSS sem nenhum tipo de uso de Javascript ou outra linguagem de programação</p>
+        <p>Tela de login para amantes de jogos da SEGA feita a partir de princípios básicos como HTML e CSS sem nenhum tipo de uso de Javascript ou outra linguagem de programação</p>
         <img class="w-[500px] h-auto rounded-xl shadow-lg shadow-indigo-500/50" src="../assets/Captura de tela 2025-05-27 131333.png" alt="">
     </div>
 
