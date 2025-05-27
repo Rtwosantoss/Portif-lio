@@ -22,7 +22,7 @@ import RotasComponents from '../components/RotasComponents.vue';
         <h2 class="font-bold text-left">Hard Skills:</h2>
         <br>  
         <div class="text-left">
-          <p>Tenho conhecimentos básicos em PHP, Laravel, C#, .NET e SQL, e estou sempre buscando aprimorar minhas habilidades através de cursos, projetos pessoais e desafios práticos.</p>
+          <p>Tenho conhecimentos básicos em HTML, CSS, Javascript, PHP, Laravel, C#, .NET e SQL, e estou sempre buscando aprimorar minhas habilidades através de cursos, projetos pessoais e desafios práticos.</p>
         </div>
         <br>
         <h2 class="font-bold text-left">Soft Skills:</h2>
