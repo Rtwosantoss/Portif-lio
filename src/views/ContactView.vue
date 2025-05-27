@@ -2,6 +2,19 @@
 <template>
     <div class="min-h-screen flex items-center justify-center">
         <div class="flex text-center mb-80 flex-col text-white p-6">
+            <div class="p-10">
+                <form class="flex flex-col " action="">
+                    <h1 class="flex py-1">Email:</h1>
+                    <input class="flex w-[500px] p-2" type="email" placeholder="Exemplo@gmail.com">
+                    <h1 class="flex py-1">Mensagem:</h1>
+                    <input class="w-[500px] h-[200px]" type="text">
+                    <div class="flex justify-center p-2">
+                         <button class="w-20 bg-green-500 rounded-lg hover:bg-green-700" type="submit">Enviar</button>
+                    </div>
+                   
+                </form>
+        </div>
+            
             <h1 class="font-bold text-4xl titulo-portifolio">Contato</h1>
             <p>(clique em um dos icones e seja redirecionado ou use as informções)</p>  
             <div class="text-left p-8 ">
@@ -30,5 +43,6 @@
                 </a>
             </div>
         </div>
+       
     </div>
 </template>

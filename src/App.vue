@@ -8,7 +8,7 @@ import Footer from './components/FooterComponent.vue'
 <template>
 <div class="flex flex-col min-h-screen">
   <Navbar/>
-  <main class="flex-grow bg-gray-900">  
+  <main class="bg-gray-900">  
     <router-view></router-view>
     <Whatsapp/>
   </main>
